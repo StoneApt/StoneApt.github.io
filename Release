@@ -1,0 +1,8 @@
+Origin: ShiYusen's Repo
+Label: Shiyusen's Repo
+Suite: stable
+Version: 1.0
+Codename: Muzilla
+Architectures: iphoneos-arm
+Components: main
+Description: ShiYusen's repo
