@@ -1,1 +1,18 @@
-
+Package: speedtest
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: sivel
+Depends: python | python2 | python3 | python3.7 | python3.8
+Filename: debs/my.first.pack_1.0_iphoneos-arm.deb
+Size: 68624
+MD5sum: 0003e54873cd386914f363da8f687e08
+SHA1: d67d95d634ae7840fccb32862bc2b84407bdb5d6
+SHA256: 66c598cfb21b51265739b44173f678c5e5f8b94a0a599da951ada00a203a3be3
+Section: Networking
+Priority: standard
+Homepage: https://github.com/sivel/speedtest-cli
+Description: CLI tool for testing internet bandwidth using speedtest.net
+Tag: purpose::console, role::hacker
+Author: sivel
+Depiction: https://apt.torrekie.com/info/speedtest
+Name: Speedtest
